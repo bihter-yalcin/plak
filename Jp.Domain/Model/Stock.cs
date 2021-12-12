@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Jp.Domain.Model
 {
+    
     class Stock
     {
-        
+        public int Id { get; set; }
 
     }
 }
